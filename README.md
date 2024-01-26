@@ -37,4 +37,4 @@ This abridged list reflects my own view.
 0. IEEE Publication Recommender https://publication-recommender.ieee.org/home
 1. JCR Clarivate (Thomson Reuters) Impact Factor lookup: https://jcr.clarivate.com
 2. Elsevier Journal Finder: https://journalfinder.elsevier.com
-3. pringer Journal Suggester: https://journalsuggester.springer.com
+3. Springer Journal Suggester: https://journalsuggester.springer.com
